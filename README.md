@@ -6,5 +6,5 @@
 
 ## Description
 
-A Instagram login page clone for browsers, to improve CSS skills.
+An Instagram login page clone for browsers, to improve CSS skills.
 This page was developed to compose part of FrontEnd Developer course.
